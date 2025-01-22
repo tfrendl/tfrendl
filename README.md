@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Talia Frendl
+- 👀 I’m interested in leveraging technology to positively impact people's lives and solve real-world problems
+- 🌱 I’m currently learning NumPy and Pandas
+- 📫 How to reach me: taliafrendl@gmail.com
+- ⚡ Fun fact: I'm a NASA intern!
